@@ -1,0 +1,6 @@
+def user_code():
+    num=int(input())
+    str = input()
+    print(num*2)
+    return str
+print(user_code())
